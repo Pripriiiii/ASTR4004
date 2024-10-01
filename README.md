@@ -13,9 +13,7 @@ This repository tracks and updates progress and materials for the Astronomical C
 
 - **3. Plot Clinic**:  
   In this notebook, we explore effective data visualization techniques.
-
-- **4. Extra: Commenting and Outsourcing Code**:  
-  In this notebook, I showcase how you can better comment (for your future self and others) with *#* and DocString as well as how to outsource code.
+  
 
 ### Directories
 
